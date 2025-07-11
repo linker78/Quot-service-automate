@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuoteService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b554fdb9640252d653677b44689621bd8a52e78a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a0a5f41a665bdb1f27eb545d25ea2c68851ceff")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuoteService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuoteService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
